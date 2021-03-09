@@ -1,6 +1,8 @@
 # SimilarBooks
 ## A Book Recommendation System
 
+[![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/jimmiemunyi/similarbooks/main/similar_books.py)
+
 
 ![similar books](https://user-images.githubusercontent.com/38419676/110423721-a1adfb80-80b2-11eb-95c9-d439ac3d1ba0.png)
 
