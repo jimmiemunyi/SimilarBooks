@@ -31,7 +31,7 @@ st.title('SIMILAR BOOKS')
 st.subheader('A Book Recommendation System')
 "Here's the [GitHub](https://github.com/jimmiemunyi/SimilarBooks) repo."
 
-st.info("Start typing and you will get suggestions of Books we currently have. We Currently have support for 10, 00 Books!")
+st.info("Start typing and you will get suggestions of Books we currently have. We Currently have support for 10, 000 Books!")
 title = selectbox_with_default("Which Book Do you want Recommendations From:",
                             books['original_title'], default='Select A Book')
 number = st.slider("How many Similar Books do you want?", 1, 10, value=5)
