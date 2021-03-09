@@ -47,7 +47,7 @@ st.title('Developer Details')
 
 My name is Jimmie Munyi. You can connect with me on [Twitter](https://twitter.com/jimmie_munyi). You can check out other projects I have done from [My GitHub](https://github.com/jimmiemunyi) and from [My Blog](https://jimmiemunyi.github.io/blog/).
 
-If you wish to see how Similar Books was created, read this [blog post](https://jimmiemunyi.github.io/blog/tutorial/2021/02/15/Book-Recommendation-Model-Training.html).
+If you wish to see how Similar Books was created, read this [blog post](https://jimmiemunyi.github.io/blog/projects/tutorial/2021/02/15/Book-Recommendation-Model-Training.html).
 
 '''
 
